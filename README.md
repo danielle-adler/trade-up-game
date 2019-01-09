@@ -1,4 +1,6 @@
 # Trade Up Game
+
+## Introduction
 The Trade Up game starts simple and can build up to something extravagant. The game is set in a mall and has six stores and four items within each store. The player will start with a pen and go to various stores trading items that progressively get better and better. Essentially, the game is a choose your own journey of sorts, except there are catches, exceptions, and arbitrary rules throughout. 
 
 The Trade Up game should be run from any standard command line. Please call the “Trade_Up_Game_Project.py” file from the command line as opposed to opening up a terminal within Spyder or any other type of software. Then, please follow the prompts and play along! The game will quit when you press [Q] or when you win or lose. I encourage you to play the game as many times as you would like and to take different journeys throughout the mall.
